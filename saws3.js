@@ -1,10 +1,6 @@
 var console = {};
 console.log = function(){};
 
-/*
-Carlos bucket
-http://acs.amazonaws.com/groups/global/AllUsers
-*/
 
 const 
 { 
